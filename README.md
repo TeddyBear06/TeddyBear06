@@ -2,7 +2,7 @@
 
 #### I'm a full-stack (but I still do prefer backend :-p) developper. I work manly with PHP, Python and JS but I'm open minded :wink:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TeddyBear06)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=TeddyBear06&theme=onedark)
 
 - Currently working on implementing LBT in [ExpressLRS](https://github.com/AlessandroAU/ExpressLRS);
 - I've created [paysdufle.fr](https://paysdufle.fr/) a website to pratice your french for free;
